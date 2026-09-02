@@ -39,7 +39,7 @@ The file names here follow the names of the slides, so `L5-ForLoop.c` goes with
 
 ---
 
-## Part 1 — C  (`C/`)
+## Part 1: C
 
 | File | Lesson | What you learn |
 |---|---|---|
@@ -56,7 +56,7 @@ The file names here follow the names of the slides, so `L5-ForLoop.c` goes with
 | `L12-Structure.c` | Structure | `struct`, the dot `.`, `typedef`, array of structures, nested structure, structure as a parameter |
 
 
-## Part 2 — C++  (`C++/`)
+## Part 2: C++
 
 | File | Lesson | What you learn |
 |---|---|---|
