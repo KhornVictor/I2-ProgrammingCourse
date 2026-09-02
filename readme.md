@@ -13,9 +13,9 @@ containing the exercises of that lesson.
 
 Vacation Training Class at ITC-PP — 2026
 
-| Time | Monday | Tuesday | Wednesday | Thursday | Friday | **Saturday** |
-|---|---|---|---|---|---|---|
-| 11:00 – 13:00 | Electricity | Mechanic II | Linear Algebra | Calculus III | Chemistry | **Programming** |
+| Time | **Saturday** |
+|---|---|
+| 11:00 – 13:00 | **Programming** |
 
 > Our session is on **Saturday, 11:00 – 13:00**.
 
