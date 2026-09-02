@@ -1,5 +1,8 @@
 # References learn C / C++ by yourself
 
+
+[![Back to readme](https://img.shields.io/badge/%E2%86%90%20Back%20to-readme-555555?style=for-the-badge)](readme.md)
+
 A list of free websites, YouTube channels and books to continue the course
 alone, at home.
 
@@ -157,7 +160,5 @@ course. Do not start with LeetCode.
    more than the answer given immediately.
 
 ---
-
-[![Back to readme](https://img.shields.io/badge/%E2%86%90%20Back%20to-readme-555555?style=for-the-badge)](readme.md)
 
 *ITC-PP Vacation Training Class 2026 I2 Programming*
