@@ -1,4 +1,4 @@
-# References — learn C / C++ by yourself
+# References learn C / C++ by yourself
 
 A list of free websites, YouTube channels and books to continue the course
 alone, at home.
@@ -23,17 +23,17 @@ alone, at home.
 
 ---
 
-## 1. Websites — learn step by step
+## 1. Websites learn step by step
 
 | Site | Language | Why |
 |---|---|---|
 | [![Programiz](https://img.shields.io/badge/Programiz-0A9EDC?style=flat-square)](https://www.programiz.com/c-programming) | [![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)](https://www.programiz.com/c-programming) [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://www.programiz.com/cpp-programming) | Short lessons, clear examples, an online compiler on the same page. **Best place to start.** |
 | [![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?style=flat-square&logo=w3schools&logoColor=white)](https://www.w3schools.com/c/) | [![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)](https://www.w3schools.com/c/) [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://www.w3schools.com/cpp/) | Very simple, "Try it yourself" button on every example |
-| [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/c-programming-language/) | [![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)](https://www.geeksforgeeks.org/c-programming-language/) [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://www.geeksforgeeks.org/c-plus-plus/) | Huge number of articles on data structures and algorithms — search here when you are stuck on an exercise |
+| [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/c-programming-language/) | [![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)](https://www.geeksforgeeks.org/c-programming-language/) [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://www.geeksforgeeks.org/c-plus-plus/) | Huge number of articles on data structures and algorithms   search here when you are stuck on an exercise |
 | [![TutorialsPoint](https://img.shields.io/badge/TutorialsPoint-FB7A24?style=flat-square)](https://www.tutorialspoint.com/cprogramming/) | [![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)](https://www.tutorialspoint.com/cprogramming/) [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://www.tutorialspoint.com/cplusplus/) | Complete and well organised, close to the style of our slides |
 | [![LearnCpp](https://img.shields.io/badge/LearnCpp.com-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://www.learncpp.com/) | C++ | The most complete free C++ course on the internet. Long, serious, and it explains **why**, not only how. Go there after this course. |
 
-## 2. Reference — look up a function
+## 2. Reference look up a function
 
 Not for learning: for checking the exact behaviour of `strcpy`, `getline`,
 `ifstream`, etc.
@@ -41,8 +41,8 @@ Not for learning: for checking the exact behaviour of `strcpy`, `getline`,
 [![cppreference](https://img.shields.io/badge/cppreference.com-3E4349?style=for-the-badge)](https://en.cppreference.com/)
 [![cplusplus.com](https://img.shields.io/badge/cplusplus.com-004482?style=for-the-badge)](https://cplusplus.com/reference/)
 
-- **cppreference.com** — the official-quality reference for C and C++ (advanced, but always correct)
-- **cplusplus.com** — easier to read for a beginner
+- **cppreference.com**   the official-quality reference for C and C++ (advanced, but always correct)
+- **cplusplus.com**   easier to read for a beginner
 
 ## 3. See the data structures move  ⭐
 
@@ -54,9 +54,9 @@ sorting algorithm is much easier to understand when you **watch** it.
 | [![VisuAlgo](https://img.shields.io/badge/VisuAlgo-6A1B9A?style=flat-square)](https://visualgo.net/en) | Animates linked lists, stacks, queues, hash tables, BST, all the sorting algorithms. Made for exactly this course. |
 | [![USFCA](https://img.shields.io/badge/USFCA%20Visualizations-00543C?style=flat-square)](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) | The same idea, simpler and faster to use |
 | [![Python Tutor](https://img.shields.io/badge/Python%20Tutor-306998?style=flat-square)](https://pythontutor.com/c.html) | Paste **your own** code, run it line by line and **see the pointers and the memory boxes**. Perfect for `L4-Pointer.cpp` and `L5-LinkedList.cpp`. |
-| [![Compiler Explorer](https://img.shields.io/badge/Compiler%20Explorer-67C52A?style=flat-square)](https://godbolt.org/) | Shows what the compiler really produces. Curiosity only — not needed for the exam. |
+| [![Compiler Explorer](https://img.shields.io/badge/Compiler%20Explorer-67C52A?style=flat-square)](https://godbolt.org/) | Shows what the compiler really produces. Curiosity only   not needed for the exam. |
 
-## 4. Online compilers — no installation
+## 4. Online compilers no installation
 
 Useful on a phone, on a borrowed computer, or when the school computer has no
 Code::Blocks.
@@ -65,12 +65,12 @@ Code::Blocks.
 [![Programiz Compiler](https://img.shields.io/badge/Programiz%20Compiler-0A9EDC?style=for-the-badge)](https://www.programiz.com/cpp-programming/online-compiler/)
 [![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/)
 
-- **OnlineGDB** — supports C **and** C++, and it has a **debugger** (step by step)
-- **Replit** — needs an account, but saves your projects
+- **OnlineGDB** supports C **and** C++, and it has a **debugger** (step by step)
+- **Replit** needs an account, but saves your projects
 
 ---
 
-## 5. YouTube — C programming
+## 5. YouTube C programming
 
 | Channel | Language | Why |
 |---|---|---|
@@ -80,11 +80,11 @@ Code::Blocks.
 | [![CS50](https://img.shields.io/badge/CS50%20Harvard-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@cs50) | English | The first weeks of CS50 teach C, with excellent explanations of memory and pointers. Free course: [![cs50.harvard.edu](https://img.shields.io/badge/cs50.harvard.edu-A51C30?style=flat-square)](https://cs50.harvard.edu/x/) |
 | [![CodeWithHarry](https://img.shields.io/badge/CodeWithHarry-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@CodeWithHarry) | Hindi / English | Very popular C and C++ playlists |
 
-## 6. YouTube — C++ and Data Structures
+## 6. YouTube C++ and Data Structures
 
 | Channel | Why |
 |---|---|
-| [![mycodeschool](https://img.shields.io/badge/mycodeschool-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@mycodeschool) | ⭐ **The best for our Part 2.** Linked list, stack, queue, tree — explained with drawings, then coded in C/C++. The channel stopped, but the videos are still the reference. |
+| [![mycodeschool](https://img.shields.io/badge/mycodeschool-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@mycodeschool) | ⭐ **The best for our Part 2.** Linked list, stack, queue, tree   explained with drawings, then coded in C/C++. The channel stopped, but the videos are still the reference. |
 | [![Jenny's Lectures](https://img.shields.io/badge/Jenny%27s%20Lectures-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@JennyslecturesCSIT) | Complete Data Structures playlist, with the algorithms written on the board |
 | [![Abdul Bari](https://img.shields.io/badge/Abdul%20Bari-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@abdul_bari) | ⭐ The reference for **algorithms and complexity** (Big-O, sorting, trees). Watch him for `L10-SortingAlgorithms`. |
 | [![Apna College](https://img.shields.io/badge/Apna%20College-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@ApnaCollegeOfficial) | Full C++ and DSA course, exercise oriented |
@@ -92,18 +92,18 @@ Code::Blocks.
 | [![Caleb Curry](https://img.shields.io/badge/Caleb%20Curry-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@codebreakthrough) | Calm, detailed C and C++ series |
 
 > If one of these buttons does not open, search the **name of the channel** in
-> YouTube — the channel exists, only its address may have changed.
+> YouTube   the channel exists, only its address may have changed.
 
 ---
 
-## 7. Practise — the only way to really learn
+## 7. Practise the only way to really learn
 
 | Site | Level | For what |
 |---|---|---|
 | [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/domains/c) | beginner → medium | Has a real **C** track and a **C++** track, with exercises sorted by topic (loops, arrays, structs…) |
 | [![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=flat-square&logo=exercism&logoColor=white)](https://exercism.org/tracks/cpp) | beginner → medium | Free exercises, and a human mentor reads your code |
 | [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=codewars&logoColor=white)](https://www.codewars.com/) | beginner → hard | Small puzzles, you compare your solution with the others |
-| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/) | medium → hard | Linked lists, trees, hash tables — the exercises of our Part 2, but harder. Also what companies ask in interviews. |
+| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/) | medium → hard | Linked lists, trees, hash tables   the exercises of our Part 2, but harder. Also what companies ask in interviews. |
 | [![Project Euler](https://img.shields.io/badge/Project%20Euler-6A5ACD?style=flat-square)](https://projecteuler.net/) | maths | Problems with loops and numbers, if you like mathematics |
 | [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/) | hard | Programming competitions |
 
@@ -120,7 +120,7 @@ course. Do not start with LeetCode.
 | *C++ Primer* | Lippman, Lajoie, Moo | The complete C++ book |
 | *Programming: Principles and Practice Using C++* | Bjarne Stroustrup | By the creator of C++, written for beginners |
 | *Object-Oriented Programming Using C++* | Joyce Farrell | The book used for our OOP lesson (L13) |
-| *Data Structures Using C* | Reema Thareja | Linked lists, stacks, queues, trees — the same plan as our Part 2 |
+| *Data Structures Using C* | Reema Thareja | Linked lists, stacks, queues, trees   the same plan as our Part 2 |
 
 ---
 
@@ -144,13 +144,13 @@ course. Do not start with LeetCode.
 ## 10. How to actually learn (please read this part)
 
 1. **Watching a video is not learning.** Stop the video, close it, and write
-   the program yourself. If you cannot, you did not understand it — watch again.
+   the program yourself. If you cannot, you did not understand it   watch again.
 2. **Type the code, never copy-paste it.** Your fingers must learn the syntax
    too. And every typing mistake teaches you a compiler error message.
 3. **One hour of exercises beats five hours of videos.**
 4. **Read the error message.** It gives the file, the line and the reason. Most
    students look at the code instead of reading the message.
-5. **Draw before you code** — especially the linked list, the stack, the queue
+5. **Draw before you code**   especially the linked list, the stack, the queue
    and the tree. Arrows on paper, then code.
 6. **Explain it to a classmate.** If you cannot explain it, you do not know it.
 7. **Do not give up on a bug too fast.** Twenty minutes of struggle teaches
@@ -160,4 +160,4 @@ course. Do not start with LeetCode.
 
 [![Back to readme](https://img.shields.io/badge/%E2%86%90%20Back%20to-readme-555555?style=for-the-badge)](readme.md)
 
-*ITC-PP — Vacation Training Class 2026 — I2 Programming*
+*ITC-PP Vacation Training Class 2026 I2 Programming*
