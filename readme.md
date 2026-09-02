@@ -55,8 +55,6 @@ The file names here follow the names of the slides, so `L5-ForLoop.c` goes with
 | `L11-Enumeration.c` | Enumeration | `enum`, the numbers hidden behind the names, `typedef`, `enum` with `switch` |
 | `L12-Structure.c` | Structure | `struct`, the dot `.`, `typedef`, array of structures, nested structure, structure as a parameter |
 
-> There is no `L9` — the course slides go directly from **L8 Array** to
-> **L10 Function**.
 
 ## Part 2 — C++  (`C++/`)
 
