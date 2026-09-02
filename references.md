@@ -128,16 +128,16 @@ course. Do not start with LeetCode.
 
 | Our lesson | Go to |
 |---|---|
-| C — L1 to L8 (basics, condition, loop, array) | Programiz · Neso Academy · HackerRank "Introduction" |
-| C — L10 Function, L12 Structure | Programiz · W3Schools |
-| C++ — L2 Recursion | Abdul Bari · Python Tutor (to watch the calls) |
-| C++ — L4 Pointer | ⭐ Python Tutor (see the memory) · CS50 · mycodeschool |
-| C++ — L5 to L7 Linked lists | ⭐ mycodeschool · VisuAlgo |
-| C++ — L8 Queue, L9 Stack | mycodeschool · VisuAlgo |
-| C++ — L10 Sorting | ⭐ Abdul Bari · VisuAlgo (watch the animation) |
-| C++ — L11 Hash table | GeeksforGeeks · VisuAlgo |
-| C++ — L12 Tree | ⭐ mycodeschool · VisuAlgo |
-| C++ — L13 OOP | LearnCpp.com · W3Schools C++ OOP · The Cherno |
+| C L1 to L8 (basics, condition, loop, array) | Programiz · Neso Academy · HackerRank "Introduction" |
+| C L10 Function, L12 Structure | Programiz · W3Schools |
+| C++ L2 Recursion | Abdul Bari · Python Tutor (to watch the calls) |
+| C++ L4 Pointer | ⭐ Python Tutor (see the memory) · CS50 · mycodeschool |
+| C++ L5 to L7 Linked lists | ⭐ mycodeschool · VisuAlgo |
+| C++ L8 Queue, L9 Stack | mycodeschool · VisuAlgo |
+| C++ L10 Sorting | ⭐ Abdul Bari · VisuAlgo (watch the animation) |
+| C++ L11 Hash table | GeeksforGeeks · VisuAlgo |
+| C++ L12 Tree | ⭐ mycodeschool · VisuAlgo |
+| C++ L13 OOP | LearnCpp.com · W3Schools C++ OOP · The Cherno |
 
 ---
 
