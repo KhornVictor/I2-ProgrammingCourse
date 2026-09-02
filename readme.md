@@ -99,7 +99,7 @@ under each one.
 | **VS Code** | No install MSYS2 first | Modern editor, useful later for other languages |
 | **MSYS2** | Yes (it *is* the compiler) | Compiling from the terminal, and to give `gcc` to VS Code |
 
-### 1. Code::Blocks — *recommended in class*
+### 1. Code::Blocks *recommended in class*
 
 Download page: <https://www.codeblocks.org/downloads/binaries/>
 
