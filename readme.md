@@ -33,13 +33,27 @@ I2-Programming/
 
 👉 To continue learning at home, see **[references.md](references.md)**.
 
-The slides (PDF) of each lesson are in the `Documents/` folder of the course.
-The file names here follow the names of the slides, so `L5-ForLoop.c` goes with
+---
+
+## Course documents (slides)
+
+The slides (PDF) of every lesson are on Google Drive:
+
+| Part | Slides |
+|---|---|
+| **Part 1 — C** | 📁 [Open the C folder](https://drive.google.com/drive/folders/1vlF-05RxLsmq_4RFJuOWQqY_vVCxzvz-) |
+| **Part 2 — C++** | 📁 [Open the C++ folder](https://drive.google.com/drive/folders/1HzWiE5fvxhQv3XB5Wi8SE_YdKZFXITEP) |
+
+The code files here follow the names of the slides, so `L5-ForLoop.c` goes with
 `L5-ForLoop.pdf`.
+
+**Read the slides first, then open the example file.**
 
 ---
 
 ## Part 1: C
+
+📄 Slides: [Google Drive — C](https://drive.google.com/drive/folders/1vlF-05RxLsmq_4RFJuOWQqY_vVCxzvz-)
 
 | File | Lesson | What you learn |
 |---|---|---|
@@ -57,6 +71,8 @@ The file names here follow the names of the slides, so `L5-ForLoop.c` goes with
 
 
 ## Part 2: C++
+
+📄 Slides: [Google Drive — C++](https://drive.google.com/drive/folders/1HzWiE5fvxhQv3XB5Wi8SE_YdKZFXITEP)
 
 | File | Lesson | What you learn |
 |---|---|---|
