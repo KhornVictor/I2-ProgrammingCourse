@@ -96,7 +96,7 @@ under each one.
 |---|---|---|
 | **Code::Blocks** | Yes (take the `mingw` file) | **Recommended for this class** — the simplest to install |
 | **Dev-C++** | Yes | Very light, works on old computers |
-| **VS Code** | No — install MSYS2 first | Modern editor, useful later for other languages |
+| **VS Code** | No install MSYS2 first | Modern editor, useful later for other languages |
 | **MSYS2** | Yes (it *is* the compiler) | Compiling from the terminal, and to give `gcc` to VS Code |
 
 ### 1. Code::Blocks — *recommended in class*
