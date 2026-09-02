@@ -1,4 +1,4 @@
-# I2 — Data Structure & Programming
+# I2 Data Structure & Programming
 
 Example source code for the **I2 Programming** course
 (Vacation Training Class at **ITC-PP**, 2026).
@@ -11,7 +11,7 @@ containing the exercises of that lesson.
 
 ## Class schedule
 
-Vacation Training Class at ITC-PP — 2026
+Vacation Training Class at ITC-PP : 2026
 
 | Time | **Saturday** |
 |---|---|
@@ -25,10 +25,13 @@ Vacation Training Class at ITC-PP — 2026
 
 ```
 I2-Programming/
-├── C/            Semester 1 — Data Structure & Programming I   (language C)
-├── C++/          Semester 2 — Data Structure & Programming II  (language C++)
-└── readme.md     this file
+├── C/              Semester 1 — Data Structure & Programming I   (language C)
+├── C++/            Semester 2 — Data Structure & Programming II  (language C++)
+├── readme.md       this file
+└── references.md   websites, YouTube channels and books to study alone
 ```
+
+👉 To continue learning at home, see **[references.md](references.md)**.
 
 The slides (PDF) of each lesson are in the `Documents/` folder of the course.
 The file names here follow the names of the slides, so `L5-ForLoop.c` goes with
@@ -75,6 +78,93 @@ The file names here follow the names of the slides, so `L5-ForLoop.c` goes with
 
 ---
 
+## Install the tools
+
+To write and run C / C++ you need **two different things**:
+
+| | What it is | Example |
+|---|---|---|
+| **The compiler** | the program that turns your code into a `.exe` | `gcc` / `g++` (MinGW-w64) |
+| **The IDE / editor** | where you type your code and press *Run* | Code::Blocks, VS Code, Dev-C++ |
+
+Some IDE installers already contain a compiler, some do not. Read the note
+under each one.
+
+### Which one should I choose?
+
+| Tool | Compiler included? | Good for |
+|---|---|---|
+| **Code::Blocks** | Yes (take the `mingw` file) | **Recommended for this class** — the simplest to install |
+| **Dev-C++** | Yes | Very light, works on old computers |
+| **VS Code** | No — install MSYS2 first | Modern editor, useful later for other languages |
+| **MSYS2** | Yes (it *is* the compiler) | Compiling from the terminal, and to give `gcc` to VS Code |
+
+### 1. Code::Blocks — *recommended in class*
+
+Download page: <https://www.codeblocks.org/downloads/binaries/>
+
+> **Important:** on the Windows list, choose the file whose name contains
+> **`mingw`** (for example `codeblocks-XX.XXmingw-setup.exe`).
+> The file *without* `mingw` has **no compiler**, and nothing will build.
+
+### 2. Dev-C++
+
+Download page: <https://www.embarcadero.com/free-tools/dev-cpp>
+
+The compiler is already inside. Nothing else to install.
+Build and run with **F11**.
+
+### 3. Visual Studio Code
+
+- Editor: <https://code.visualstudio.com/download>
+- Extension to install inside VS Code: **C/C++** (by Microsoft)
+- Guide from Microsoft: <https://code.visualstudio.com/docs/cpp/config-mingw>
+
+> VS Code is only an editor: it contains **no compiler**.
+> Install **MSYS2** (below) first, otherwise nothing will compile.
+
+### 4. MSYS2 (the compiler for VS Code, or for the terminal)
+
+Download and installation guide: <https://www.msys2.org/>
+
+After the installation, open **MSYS2 UCRT64** from the Start menu and type:
+
+```bash
+pacman -Syu
+pacman -S mingw-w64-ucrt-x86_64-gcc
+```
+
+Then add the compiler to the Windows `PATH` so that it works everywhere:
+
+```
+C:\msys64\ucrt64\bin
+```
+
+*(Windows → search "environment variables" → Environment Variables → `Path` → New)*
+
+Close and reopen your terminal, then check the installation:
+
+```bash
+gcc --version
+g++ --version
+```
+
+If a version number appears, everything is ready.
+
+### On Linux / macOS
+
+The compiler is usually already there, or one command away:
+
+```bash
+# Ubuntu / Debian
+sudo apt install build-essential
+
+# macOS
+xcode-select --install
+```
+
+---
+
 ## How to run a program
 
 ### With Code::Blocks (recommended in class)
@@ -82,7 +172,14 @@ The file names here follow the names of the slides, so `L5-ForLoop.c` goes with
 1. `File → Open…` and choose the `.c` or `.cpp` file
 2. Press **F9** (*Build and run*)
 
+### With Dev-C++
+
+1. `File → Open…` and choose the `.c` or `.cpp` file
+2. Press **F11** (*Compile and run*)
+
 ### With the command prompt
+
+This works only if `gcc` is in your `PATH` (see **MSYS2** above).
 
 For a C file:
 
