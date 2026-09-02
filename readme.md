@@ -198,7 +198,7 @@ L12
 On Linux or macOS, run the program with `./L5` instead of `L5`.
 
 > `L3-FileIO.cpp` creates two files (`StudentList.txt` and `MyData.csv`) in the
-> folder where you run it. This is normal — open them to see the result.
+> folder where you run it. This is normal, open them to see the result.
 
 ---
 
@@ -245,4 +245,4 @@ redo `L4-Pointer.cpp` before going further.
 
 ---
 
-*ITC-PP — Vacation Training Class 2026 — I2 Programming*
+*ITC-PP Vacation Training Class 2026 I2 Programming*
