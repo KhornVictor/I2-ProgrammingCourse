@@ -31,7 +31,9 @@ I2-Programming/
 └── references.md   websites, YouTube channels and books to study alone
 ```
 
-👉 To continue learning at home, see **[references.md](references.md)**.
+To continue learning at home:
+
+[![References](https://img.shields.io/badge/Study%20alone-websites%2C%20YouTube%2C%20books-555555?style=for-the-badge)](references.md)
 
 ---
 
