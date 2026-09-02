@@ -37,12 +37,17 @@ I2-Programming/
 
 ## Course documents (slides)
 
-The slides (PDF) of every lesson are on Google Drive:
+The slides (PDF) of every lesson are on Google Drive. Click a button:
 
-| Part | Slides |
-|---|---|
-| **Part 1 — C** | 📁 [Open the C folder](https://drive.google.com/drive/folders/1vlF-05RxLsmq_4RFJuOWQqY_vVCxzvz-) |
-| **Part 2 — C++** | 📁 [Open the C++ folder](https://drive.google.com/drive/folders/1HzWiE5fvxhQv3XB5Wi8SE_YdKZFXITEP) |
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/1vlF-05RxLsmq_4RFJuOWQqY_vVCxzvz-">
+    <img src="https://img.shields.io/badge/Slides%20Part%201-C-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="C slides on Google Drive">
+  </a>
+  &nbsp;
+  <a href="https://drive.google.com/drive/folders/1HzWiE5fvxhQv3XB5Wi8SE_YdKZFXITEP">
+    <img src="https://img.shields.io/badge/Slides%20Part%202-C%2B%2B-0F9D58?style=for-the-badge&logo=googledrive&logoColor=white" alt="C++ slides on Google Drive">
+  </a>
+</p>
 
 The code files here follow the names of the slides, so `L5-ForLoop.c` goes with
 `L5-ForLoop.pdf`.
@@ -53,7 +58,7 @@ The code files here follow the names of the slides, so `L5-ForLoop.c` goes with
 
 ## Part 1: C
 
-📄 Slides: [Google Drive — C](https://drive.google.com/drive/folders/1vlF-05RxLsmq_4RFJuOWQqY_vVCxzvz-)
+[![C slides](https://img.shields.io/badge/Slides-C-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1vlF-05RxLsmq_4RFJuOWQqY_vVCxzvz-)
 
 | File | Lesson | What you learn |
 |---|---|---|
@@ -72,7 +77,7 @@ The code files here follow the names of the slides, so `L5-ForLoop.c` goes with
 
 ## Part 2: C++
 
-📄 Slides: [Google Drive — C++](https://drive.google.com/drive/folders/1HzWiE5fvxhQv3XB5Wi8SE_YdKZFXITEP)
+[![C++ slides](https://img.shields.io/badge/Slides-C%2B%2B-0F9D58?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1HzWiE5fvxhQv3XB5Wi8SE_YdKZFXITEP)
 
 | File | Lesson | What you learn |
 |---|---|---|
@@ -115,7 +120,7 @@ under each one.
 
 ### 1. Code::Blocks *recommended in class*
 
-Download page: <https://www.codeblocks.org/downloads/binaries/>
+[![Download Code::Blocks](https://img.shields.io/badge/Download-Code%3A%3ABlocks-2E8B57?style=for-the-badge&logo=cplusplus&logoColor=white)](https://www.codeblocks.org/downloads/binaries/)
 
 > **Important:** on the Windows list, choose the file whose name contains
 > **`mingw`** (for example `codeblocks-XX.XXmingw-setup.exe`).
@@ -123,23 +128,24 @@ Download page: <https://www.codeblocks.org/downloads/binaries/>
 
 ### 2. Dev-C++
 
-Download page: <https://www.embarcadero.com/free-tools/dev-cpp>
+[![Download Dev-C++](https://img.shields.io/badge/Download-Dev--C%2B%2B-E44D26?style=for-the-badge&logo=cplusplus&logoColor=white)](https://www.embarcadero.com/free-tools/dev-cpp)
 
 The compiler is already inside. Nothing else to install.
 Build and run with **F11**.
 
 ### 3. Visual Studio Code
 
-- Editor: <https://code.visualstudio.com/download>
+[![Download VS Code](https://img.shields.io/badge/Download-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/download)
+[![Setup guide](https://img.shields.io/badge/Guide-C%2FC%2B%2B%20with%20MinGW-5C2D91?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/docs/cpp/config-mingw)
+
 - Extension to install inside VS Code: **C/C++** (by Microsoft)
-- Guide from Microsoft: <https://code.visualstudio.com/docs/cpp/config-mingw>
 
 > VS Code is only an editor: it contains **no compiler**.
 > Install **MSYS2** (below) first, otherwise nothing will compile.
 
 ### 4. MSYS2 (the compiler for VS Code, or for the terminal)
 
-Download and installation guide: <https://www.msys2.org/>
+[![Download MSYS2](https://img.shields.io/badge/Download-MSYS2-1F1F1F?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.msys2.org/)
 
 After the installation, open **MSYS2 UCRT64** from the Start menu and type:
 
